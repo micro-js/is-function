@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/is-function",
+  "name": "@f/is-function",
   "description": "Test whether a given value is a function.",
   "repository": "git://github.com/micro-js/is-function.git",
   "version": "1.0.4",

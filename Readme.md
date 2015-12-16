@@ -10,12 +10,12 @@ Test whether a given value is a function.
 
 ## Installation
 
-    $ npm install @micro-js/is-function
+    $ npm install @f/is-function
 
 ## Usage
 
 ```js
-var isFunction = require('@micro-js/is-function')
+var isFunction = require('@f/is-function')
 
 isFunction() // => false
 isFunction(true) // => false
@@ -41,5 +41,5 @@ MIT
 [git-url]: https://github.com/micro-js/is-function
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/is-function.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/is-function
+[npm-image]: https://img.shields.io/npm/v/@f/is-function.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/is-function
