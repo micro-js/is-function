@@ -2,7 +2,7 @@
   "name": "@f/is-function",
   "description": "Test whether a given value is a function.",
   "repository": "git://github.com/micro-js/is-function.git",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
